@@ -15,9 +15,6 @@ const WHATSAPP_MESSAGES = {
   branding: 'Olá! Quero criar ou fortalecer a identidade visual da minha empresa.',
   consultoria: 'Olá! Gostaria de uma consultoria para encontrar oportunidades de crescimento no marketing da minha empresa.',
   automacao: 'Olá! Quero automatizar meu atendimento e melhorar a conversão dos contatos que chegam pelo WhatsApp.',
-  performance: 'Olá! Quero melhorar a performance das minhas campanhas com uma rotina de otimização profissional.',
-  analytics: 'Olá! Quero estruturar analytics e dashboards para medir melhor minhas campanhas.',
-  conversoes: 'Olá! Quero aumentar as conversões do meu site ou landing page com a Mello.ads.',
   cta_final: 'Olá! Gostaria de conversar com um especialista da Mello.ads e solicitar um orçamento.',
   float: 'Olá! Vim através do site da Mello.ads e gostaria de falar com um especialista.'
 };
