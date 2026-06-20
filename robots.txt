@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://melloads.com.br/sitemap.xml
